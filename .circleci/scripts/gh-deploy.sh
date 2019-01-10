@@ -32,7 +32,7 @@ git config user.email "$USER_EMAIL"
 
 git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
-git push -f $ORIGIN_URL develop:master
+git push -f $ORIGIN_URL develop:gh-pages
 
 # Move back to previous branch.
 git checkout -
