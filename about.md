@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hello everyone,
+
+My name is Ricardo. I code mostly in Ruby. From Brazil. You can find more about me at: <a href="http://linkedin.com/in/ricardo-eihara">Linkedin</a>
